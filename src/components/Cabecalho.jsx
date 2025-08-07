@@ -6,7 +6,6 @@ function Cabecalho({
         <div
             style={{
                 backgroundColor: cor,
-
                 color: "white"
             }}
         >
